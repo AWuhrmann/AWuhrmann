@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-[![My stats :D](https://github-readme-stats.vercel.app/api?username=awuhrmann)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats ! :D](https://github-stats-extended.vercel.app/api?username=awuhrmann)](https://github.com/stats-organization/github-stats-extended)
 
 My name is Arthur, and I am data science student from Switzerland !
 
