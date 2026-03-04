@@ -5,7 +5,7 @@ My name is Arthur, and I am data science student from Switzerland !
 
 I love programming. I am doing some web development (frontend + backend) and some machine learning. 
 
-President of ![Safe AI Lausanne](lausanne.aisafety.ch)
+President of ![Safe AI Lausanne](https://lausanne.aisafety.ch)
 
 <!--
 **AWuhrmann/AWuhrmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
